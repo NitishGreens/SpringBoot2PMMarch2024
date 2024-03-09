@@ -6,4 +6,8 @@ public class Employee {
 		System.out.println("add");
 	}
 
+	private void login() {
+		System.out.println("login");
+	}
+
 }
