@@ -8,6 +8,11 @@ public class Employee {
 
 	private void login() {
 		System.out.println("login");
+
+	}
+
+	private void register() {
+		System.out.println("register");
 	}
 
 }
