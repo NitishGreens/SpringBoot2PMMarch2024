@@ -6,4 +6,8 @@ public class Employee {
 		System.out.println("add");
 	}
 
+	private void register() {
+		System.out.println("register");
+	}
+
 }
